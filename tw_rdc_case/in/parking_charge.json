@@ -1,0 +1,13 @@
+{
+  "areaTrack1":[[120.6165,31.30843], [120.6165,31.31649], [120.6264,31.31649], [120.6264,31.30843]],
+  "chargeMethod1":1,
+  "chargeMethod2":1,
+  "chargePertime1":8,
+  "chargePertime2":6,
+  "chargeInOneHour1":7,
+  "chargeOutOneHour1":5,
+  "chargeOneDay1":9,
+  "chargeInOneHour2":7,
+  "chargeOutOneHour2":4,
+  "chargeOneDay2":40
+}

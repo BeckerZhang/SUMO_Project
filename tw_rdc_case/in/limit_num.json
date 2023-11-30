@@ -1,0 +1,7 @@
+{
+    "projectId": 1,                                  
+    "projectName": "测试项目",                           
+    "limitedTime": 104,              
+    "limitedTailNumber":1,                   
+    "limitedAreaTrack": [[120.1, 32.1], [120.2, 32.2]]  
+}
