@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+	
+	<busStop id="1" name="养育巷" lane="gneE115_0" startPos="480" endPos="780" friendlyPos="true" lines="1"> 
+    </busStop>
+ 
+    <busStop id="2" lane="gneE115_0" startPos="1364.4" endPos="1564.4" name="乐桥" friendlyPos="1">
+    </busStop>
+	
+	<busStop id="3" name="临顿路" lane="gneE115_0" startPos="2299.1" endPos="2499.1" friendlyPos="true" lines="1">
+    </busStop>	
+		
+	<busStop id="4" name="相门" lane="gneE115_0" startPos="2770.7" endPos="2970.7" friendlyPos="true" lines="1">
+    </busStop>	
+	
+	
+	
+    <busStop id="-4" name="相门" lane="gneE116_0" startPos="480" endPos="780" friendlyPos="true" lines="1"> 
+    </busStop>
+	
+    <busStop id="-3" name="临顿路" lane="gneE116_0" startPos="1164.4" endPos="1364.4" friendlyPos="true" lines="1"> 
+    </busStop>
+	
+    <busStop id="-2" name="乐桥" lane="gneE116_0" startPos="2099.1" endPos="2299.1" friendlyPos="true" lines="1"> 
+    </busStop>
+	
+    <busStop id="-1" name="养育巷" lane="gneE116_0" startPos="2770.7" endPos="2970.7" friendlyPos="true" lines="1"> 
+    </busStop>	
+	
+	
+	
+    <busStop id="5_2" name="南门2" lane="gneE113_0" startPos="453.6" endPos="653.6" friendlyPos="true" lines="1"> 
+    </busStop>
+	
+    <busStop id="6" name="三元坊" lane="gneE113_0" startPos="1100.85" endPos="1300.85" friendlyPos="true" lines="1"> 
+    </busStop>
+	
+    <busStop id="2_2" name="乐桥2" lane="gneE113_0" startPos="2057.4" endPos="2257.4" friendlyPos="true" lines="1"> 
+    </busStop>
+	
+    <busStop id="7" name="察院场" lane="gneE113_0" startPos="2561.3" endPos="2761.3" friendlyPos="true" lines="1"> 
+    </busStop>	
+	
+	<busStop id="8" name="北寺塔" lane="gneE113_0" startPos="3665.6" endPos="3865.6" friendlyPos="true" lines="1"> 
+    </busStop>	
+
+
+    <busStop id="-5_2" name="南门2" lane="gneE117_0" startPos="4288.8" endPos="4488.8" friendlyPos="true" lines="1"> 
+    </busStop>
+	
+    <busStop id="-6" name="三元坊" lane="gneE117_0" startPos="3653.8" endPos="3853.8" friendlyPos="true" lines="1"> 
+    </busStop>
+	
+    <busStop id="-2_2" name="乐桥2" lane="gneE117_0" startPos="2726.8" endPos="2926.8" friendlyPos="true" lines="1"> 
+    </busStop>
+	
+    <busStop id="-7" name="察院场" lane="gneE117_0" startPos="2240.2" endPos="2340.6" friendlyPos="true" lines="1"> 
+    </busStop>	
+	
+	<busStop id="-8" name="北寺塔" lane="gneE117_0" startPos="1172.6" endPos="1372.6" friendlyPos="true" lines="1"> 
+    </busStop>	
+
+
+
+	
+    <busStop id="10" name="新市桥" lane="973215178.19842_0" startPos="437" endPos="637" friendlyPos="true" lines="1"> 
+    </busStop>
+    <busStop id="5" name="南门" lane="973215178.19842_0" startPos="1540" endPos="1740" friendlyPos="true" lines="1"> 
+    </busStop>
+    <busStop id="9" name="南园北路" lane="973215178.19842_0" startPos="2378" endPos="2578" friendlyPos="true" lines="1"> 
+    </busStop>
+
+
+    <busStop id="-9" name="南园北路" lane="967017949.20010_0" startPos="1286" endPos="1486" friendlyPos="true" lines="1"> 
+    </busStop>	
+    <busStop id="-5" name="南门" lane="967017949.20010_0" startPos="2225" endPos="2425" friendlyPos="true" lines="1"> 
+    </busStop>
+    <busStop id="-10" name="新市桥" lane="967017949.20010_0" startPos="3525" endPos="3725" friendlyPos="true" lines="1"> 
+    </busStop>
+
+	
+</additional>

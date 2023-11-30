@@ -1,0 +1,90 @@
+<tazs>
+    <taz id="10000">
+        <tazSource id="44660544" weight="100"/>
+        <tazSink id="44660544" weight="100"/>
+        <tazSource id="793466834" weight="100"/>
+        <tazSink id="793466834" weight="100"/>
+    </taz>
+    <taz id="10001">
+        <tazSource id="51229445#0" weight="100"/>
+        <tazSink id="51229445#0" weight="100"/>
+        <tazSource id="44660543#1" weight="100"/>
+        <tazSink id="44660543#1" weight="100"/>
+    </taz>
+    <taz id="10002">
+        <tazSource id="801547003" weight="100"/>
+        <tazSink id="801547003" weight="100"/>
+    </taz>
+    <taz id="10003">
+        <tazSource id="44660548" weight="100"/>
+        <tazSink id="44660548" weight="100"/>
+        <tazSource id="419912508" weight="100"/>
+        <tazSink id="419912508" weight="100"/>
+    </taz>
+    <taz id="10004">
+        <tazSource id="802095853#0" weight="100"/>
+        <tazSink id="802095853#0" weight="100"/>
+        <tazSource id="802095854#2" weight="100"/>
+        <tazSink id="802095854#2" weight="100"/>
+    </taz>
+    <taz id="10005">
+        <tazSource id="454323078" weight="100"/>
+        <tazSink id="454323078" weight="100"/>
+        <tazSource id="454323075" weight="100"/>
+        <tazSink id="454323075" weight="100"/>
+    </taz>
+    <taz id="10006">
+        <tazSource id="419912506" weight="100"/>
+        <tazSink id="419912506" weight="100"/>
+        <tazSource id="44660562" weight="100"/>
+        <tazSink id="44660562" weight="100"/>
+    </taz>
+    <taz id="10007">
+        <tazSource id="69707917" weight="100"/>
+        <tazSink id="69707917" weight="100"/>
+        <tazSource id="69707954" weight="100"/>
+        <tazSink id="69707954" weight="100"/>
+    </taz>
+    <taz id="10008">
+        <tazSource id="44660559" weight="100"/>
+        <tazSink id="44660559" weight="100"/>
+        <tazSource id="536568419" weight="100"/>
+        <tazSink id="536568419" weight="100"/>
+    </taz>
+    <taz id="10009">
+        <tazSource id="-66254174#0" weight="100"/>
+        <tazSink id="-66254174#0" weight="100"/>
+        <tazSource id="66254174#0" weight="100"/>
+        <tazSink id="66254174#0" weight="100"/>
+    </taz>
+    <taz id="10010">
+        <tazSource id="-802089941#1" weight="100"/>
+        <tazSink id="-802089941#1" weight="100"/>
+        <tazSource id="802089941#1" weight="100"/>
+        <tazSink id="802089941#1" weight="100"/>
+    </taz>
+    <taz id="10011">
+        <tazSource id="-44669553#0" weight="100"/>
+        <tazSink id="-44669553#0" weight="100"/>
+        <tazSource id="44669553#0" weight="100"/>
+        <tazSink id="44669553#0" weight="100"/>
+    </taz>
+    <taz id="10012">
+        <tazSource id="44660563" weight="100"/>
+        <tazSink id="44660563" weight="100"/>
+        <tazSource id="419909955" weight="100"/>
+        <tazSink id="419909955" weight="100"/>
+    </taz>
+    <taz id="10013">
+        <tazSource id="795509472#6" weight="100"/>
+        <tazSink id="795509472#6" weight="100"/>
+        <tazSource id="442518549#0" weight="100"/>
+        <tazSink id="442518549#0" weight="100"/>
+    </taz>
+    <taz id="10014">
+        <tazSource id="-44660545" weight="100"/>
+        <tazSink id="-44660545" weight="100"/>
+        <tazSource id="44660545" weight="100"/>
+        <tazSink id="44660545" weight="100"/>
+    </taz>
+</tazs>

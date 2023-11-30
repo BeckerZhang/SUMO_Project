@@ -1,0 +1,31 @@
+<configuration>
+
+	<!--SUMO配置文件（.sumocfg）相关设置-->
+    <config_sumo run_flag="on">
+        <!--默认的仿真开始、结束时间、及步长-->
+        <time begin="0" end="3600" step-length="0.5"/>
+        <!--随机种子-->
+        <random_number seed="42"/>
+        <!--SUMO配置文件（.sumocfg）的模板-->
+        <sumocfg_template_path value="./template.sumocfg"/>
+		<!--.rou.xml文件和additional文件-->
+		<background_route-files value="bus.rou.xml,subway.rou.xml,pedestrian.rou.xml,od.rou.xml" />
+        <background_additional-files value="busStops.xml,newsubwayStops.xml,suzhou.poly.xml,meandata.xml,meandata_5min.xml" />
+		<new_built_route-files value="bus.rou.xml,subway.rou.xml,pedestrian.rou.xml,od.rou.xml,new.rou.xml" />
+        <new_built_additional-files value="busStops.xml,newsubwayStops.xml,suzhou.poly.xml,meandata.xml,meandata_5min.xml"/>
+		<refresh_route-files value="bus.rou.xml,subway.rou.xml,pedestrian.rou.xml,od.rou.xml,new.rou.xml" />
+        <refresh_additional-files value="busStops.xml,newsubwayStops.xml,suzhou.poly.xml,meandata.xml,meandata_5min.xml"/>
+        <parking_new_route-files value="bus.rou.xml,subway.rou.xml,pedestrian.rou.xml,od.rou.xml,new.rou.xml" />
+        <parking_new_additional-files value="busStops.xml,newsubwayStops.xml,suzhou.poly.xml,meandata.xml,meandata_5min.xml"/>
+        <limit_num_route-files value="bus.rou.xml,subway.rou.xml,pedestrian.rou.xml,od.rou.xml" />
+        <limit_num_additional-files value="busStops.xml,newsubwayStops.xml,suzhou.poly.xml,meandata.xml,meandata_5min.xml"/>
+		<bus_discount_route-files value="bus.rou.xml,subway.rou.xml,pedestrian.rou.xml,od.rou.xml" />
+        <bus_discount_additional-files value="busStops.xml,newsubwayStops.xml,suzhou.poly.xml,meandata.xml,meandata_5min.xml" />
+		<transit_flow_route-files value="bus.rou.xml,subway.rou.xml,pedestrian.rou.xml,od.rou.xml" />
+		<transit_flow_additional-files value="busStops.xml,newsubwayStops.xml,suzhou.poly.xml,meandata.xml,meandata_5min.xml"/>
+		<parking_route-files value="bus.rou.xml,subway.rou.xml,pedestrian.rou.xml,od.rou.xml" />
+		<parking_additional-files value="busStops.xml,newsubwayStops.xml,suzhou.poly.xml,meandata.xml,meandata_5min.xml"/>
+        <!--默认是否启用图形化界面 sumo/sumo-gui-->
+        <sumo_cmd value="sumo-gui"/>
+    </config_sumo>
+</configuration>

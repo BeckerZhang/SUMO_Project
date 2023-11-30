@@ -1,0 +1,1357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ptLines xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/ptlines_file.xsd">
+    <ptLine id="320500010004" name="54路(苏州旅游集散中心首末站--吴中区职教中心)" line="320500010004" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129556_131443671#4" duration="20"/>
+        <busStop id="BV10129557_-131443671#0" duration="20"/>
+        <busStop id="BV10129588_gneE27" duration="20"/>
+        <busStop id="BV10129589_gneE41" duration="20"/>
+        <busStop id="BV10129578_-44669553#6" duration="20"/>
+    </ptLine>
+    <ptLine id="320500022810" name="轨道交通4号线(龙道浜--同里)" line="320500022810" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129590_834617775" duration="20"/>
+        <busStop id="BV10137003_834617776#6.150" duration="20"/>
+        <busStop id="BV10129992_gneE87" duration="20"/>
+        <busStop id="BV10137004_621156401#1.258" duration="20"/>
+        <busStop id="BV10735304_-gneE10" duration="20"/>
+        <busStop id="BV10129590_834617775" duration="20"/>
+        <busStop id="BV10137003_834617776#6.150" duration="20"/>
+        <busStop id="BV10129992_gneE87" duration="20"/>
+        <busStop id="BV10137004_621156401#1.258" duration="20"/>
+        <busStop id="BV10735304_-gneE10" duration="20"/>
+    </ptLine>
+    <ptLine id="320500022811" name="轨道交通4号线(同里--龙道浜)" line="320500022811" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10137004_621156388#0" duration="20"/>
+        <busStop id="BV10129992_gneE88" duration="20"/>
+        <busStop id="BV10137003_834633048#0" duration="20"/>
+        <busStop id="BV10137004_621156388#0" duration="20"/>
+        <busStop id="BV10129992_gneE88" duration="20"/>
+        <busStop id="BV10137003_834633048#0" duration="20"/>
+    </ptLine>
+    <ptLine id="320500022828" name="轨道交通1号线(木渎--钟南街)" line="320500022828" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129992_815152495" duration="20"/>
+        <busStop id="BV10137035_621156411#0" duration="20"/>
+    </ptLine>
+    <ptLine id="320500022829" name="轨道交通1号线(钟南街--木渎)" line="320500022829" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="320500022829_BV10129998" duration="20"/>
+        <busStop id="BV10137035_621156411#0" duration="20"/>
+        <busStop id="BV10129992_815152495" duration="20"/>
+    </ptLine>
+    <ptLine id="900000074812" name="9011路社区巴士(轮船码头首末站--轮船码头首末站)" line="900000074812" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV11319205_-525823901#1" duration="20"/>
+        <busStop id="BV10130305_gneE10" duration="20"/>
+        <busStop id="900000074812_BV10131357" duration="20"/>
+        <busStop id="900000074812_BV10130769" duration="20"/>
+        <busStop id="BV10130824_621655568#1.26" duration="20"/>
+        <busStop id="BV10130823_621655566#1" duration="20"/>
+        <busStop id="BV10752966_-621164893#3" duration="20"/>
+        <busStop id="BV10130642_-621164893#1" duration="20"/>
+        <busStop id="BV10130641_-620937810#1" duration="20"/>
+        <busStop id="900000074812_BV11601373" duration="20"/>
+        <busStop id="BV11067676_-525823904#3" duration="20"/>
+        <busStop id="900000074812_BV10590467" duration="20"/>
+        <busStop id="900000074812_BV11319203" duration="20"/>
+        <busStop id="BV11319204_525823902" duration="20"/>
+        <busStop id="BV11319205_525823901#1" duration="20"/>
+    </ptLine>
+    <ptLine id="900000031294" name="9025路社区巴士(苏州站北广场西公交枢纽--苏州站北广场西公交枢纽)" line="900000031294" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10130327_795866928#3" duration="20"/>
+        <busStop id="BV10130326_131443655#2" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10131369_36999945#3" duration="20"/>
+        <busStop id="BV10130327_-795866928#1" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010048" name="54路(吴中区职教中心--苏州旅游集散中心首末站)" line="320500010048" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129578_44669553#6" duration="20"/>
+        <busStop id="BV10129559_44678822#0" duration="20"/>
+        <busStop id="BV10129558_795866926#4.16" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10129588_gneE20" duration="20"/>
+        <busStop id="BV10129557_131443671#1" duration="20"/>
+        <busStop id="BV10129556_131443671#5" duration="20"/>
+    </ptLine>
+    <ptLine id="900000127553" name="9025路(区间)社区巴士(市立医院东区--市立医院东区)" line="900000127553" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10131369_36999945#3" duration="20"/>
+        <busStop id="BV10130326_131443655#2" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10131369_36999945#3" duration="20"/>
+        <busStop id="BV10130326_131443655#2" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010067" name="38路(苏州站北广场公交枢纽--刘庄首末站)" line="320500010067" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129588_gneE27" duration="20"/>
+        <busStop id="BV10129596_gneE55" duration="20"/>
+        <busStop id="BV10129910_834617776#6" duration="20"/>
+        <busStop id="BV10129881_793877960#1" duration="20"/>
+        <busStop id="BV10129905_gneE90" duration="20"/>
+        <busStop id="BV10129882_44669535#3" duration="20"/>
+        <busStop id="BV10129906_801546998#0" duration="20"/>
+    </ptLine>
+    <ptLine id="900000045140" name="204路(夜班)(上塘街--葑谊工业园)" line="900000045140" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV11067361_66254174#2" duration="20"/>
+        <busStop id="BV10502792_442386648#0" duration="20"/>
+        <busStop id="BV11067675_44669552#1" duration="20"/>
+        <busStop id="BV10129989_526710359#3" duration="20"/>
+        <busStop id="BV10129991_793885077#0" duration="20"/>
+        <busStop id="BV10131202_621156411#0" duration="20"/>
+        <busStop id="BV10129997_116730242#3" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010068" name="38路(刘庄首末站东--苏州站北广场公交枢纽)" line="320500010068" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129906_69707953" duration="20"/>
+        <busStop id="BV10129882_792592958#6" duration="20"/>
+        <busStop id="BV10129905_gneE91" duration="20"/>
+        <busStop id="BV10129881_gneE69.64" duration="20"/>
+        <busStop id="BV10129910_834633048#0.83" duration="20"/>
+        <busStop id="BV10129596_gneE49" duration="20"/>
+        <busStop id="BV10129588_gneE20" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010071" name="514路(官渎里立交桥--国际教育园南区首末站)" line="320500010071" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10130723_527033376#0" duration="20"/>
+        <busStop id="BV10129949_-294908211#2" duration="20"/>
+        <busStop id="BV10129950_-294908211#0" duration="20"/>
+        <busStop id="BV10129951_372693166#2" duration="20"/>
+        <busStop id="BV10129952_461555221" duration="20"/>
+        <busStop id="BV10129953_372693176#1" duration="20"/>
+        <busStop id="BV10129954_372693176#2" duration="20"/>
+        <busStop id="BV10129955_112973835#1" duration="20"/>
+        <busStop id="BV10130357_131443668#1.229" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010072" name="514路(国际教育园南区首末站--官渎里立交桥)" line="320500010072" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129957_802095853#2" duration="20"/>
+        <busStop id="BV10959414_419912484#3" duration="20"/>
+        <busStop id="BV10129956_419912509#3" duration="20"/>
+        <busStop id="BV10129955_-112973835#1" duration="20"/>
+        <busStop id="BV10129954_-372693176#2" duration="20"/>
+        <busStop id="BV10129953_-372693176#1" duration="20"/>
+        <busStop id="BV10129952_477237804#0" duration="20"/>
+        <busStop id="BV10129951_-372693166#2" duration="20"/>
+        <busStop id="BV10129950_294908211#1" duration="20"/>
+        <busStop id="BV10129949_294908211#2" duration="20"/>
+        <busStop id="BV10876681_793466805#0" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010073" name="9路(新庄立交换乘枢纽站--官渎里立交换乘枢纽站)" line="320500010073" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129988_526710359#1" duration="20"/>
+        <busStop id="BV10129989_526710359#3" duration="20"/>
+        <busStop id="BV10129991_793885077#0" duration="20"/>
+        <busStop id="BV10129993_621156408" duration="20"/>
+        <busStop id="BV10129997_116730242#3" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010074" name="9路(官渎里立交换乘枢纽站--新庄立交换乘枢纽站)" line="320500010074" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129997_51229439#2" duration="20"/>
+        <busStop id="BV10129993_801547008#3" duration="20"/>
+        <busStop id="BV10129991_621156407#0" duration="20"/>
+        <busStop id="BV10129989_792592967#1" duration="20"/>
+        <busStop id="BV10129988_834876447#3" duration="20"/>
+    </ptLine>
+    <ptLine id="900000084061" name="54路高峰(苏州旅游集散中心首末站--吴中区职教中心)" line="900000084061" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129556_131443671#4" duration="20"/>
+        <busStop id="BV10129557_-131443671#0" duration="20"/>
+        <busStop id="BV10129588_gneE27" duration="20"/>
+        <busStop id="BV10129589_gneE41" duration="20"/>
+        <busStop id="BV10129578_-44669553#6" duration="20"/>
+    </ptLine>
+    <ptLine id="320500011108" name="261路(沪宁城铁园区站--沪宁城铁园区站)" line="320500011108" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129997_51229439#2" duration="20"/>
+        <busStop id="BV10129993_801547008#3" duration="20"/>
+        <busStop id="BV10129991_621156407#0" duration="20"/>
+        <busStop id="BV10129991_793885077#0" duration="20"/>
+        <busStop id="BV10131202_621156411#0" duration="20"/>
+        <busStop id="BV10129997_116730242#3" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010086" name="32路(欧尚超市西--浒关首末站)" line="320500010086" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129997_51229439#2" duration="20"/>
+        <busStop id="BV10129993_801547008#3" duration="20"/>
+        <busStop id="BV10129991_621156407#0" duration="20"/>
+        <busStop id="BV10129989_792592967#1" duration="20"/>
+        <busStop id="BV11067675_-44669552#1" duration="20"/>
+        <busStop id="BV10130173_-112973829#4" duration="20"/>
+        <busStop id="BV10130174_-449258902#1" duration="20"/>
+        <busStop id="BV10130175_-44669544#1" duration="20"/>
+        <busStop id="320500010086_BV10130176" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010087" name="32路(浒关首末站--欧尚超市东)" line="320500010087" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="320500010087_BV10130176" duration="20"/>
+        <busStop id="BV10130175_44669544#7" duration="20"/>
+        <busStop id="BV10130174_449258902#1" duration="20"/>
+        <busStop id="BV10130173_112973829#2" duration="20"/>
+        <busStop id="BV11067675_44669552#1" duration="20"/>
+        <busStop id="BV10129989_526710359#3" duration="20"/>
+        <busStop id="BV10129991_793885077#0" duration="20"/>
+        <busStop id="BV10129993_621156408" duration="20"/>
+        <busStop id="BV10129997_116730242#3" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010096" name="949路(平海路首末站南--杏秀桥首末站)" line="320500010096" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129906_69707953" duration="20"/>
+        <busStop id="BV10130301_792592958#2" duration="20"/>
+        <busStop id="BV10129882_792592958#6" duration="20"/>
+        <busStop id="BV10849375_834200992" duration="20"/>
+        <busStop id="BV10130460_620937806#2" duration="20"/>
+        <busStop id="BV10130305_-gneE10" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010097" name="949路(杏秀桥首末站--平海路首末站南)" line="320500010097" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10130305_gneE10" duration="20"/>
+        <busStop id="BV10130639_620937801#0.87" duration="20"/>
+        <busStop id="BV10400025_-36784500#1" duration="20"/>
+        <busStop id="BV10400024_-36784700#1" duration="20"/>
+        <busStop id="BV10129906_801546998#0" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010098" name="923路(宝带西路首末站--汇翠花园)" line="320500010098" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129988_526710359#1" duration="20"/>
+        <busStop id="BV10129989_526710359#3" duration="20"/>
+        <busStop id="BV10129991_793885077#0" duration="20"/>
+        <busStop id="BV10131202_621156411#0" duration="20"/>
+        <busStop id="BV10129997_116730242#3" duration="20"/>
+    </ptLine>
+    <ptLine id="320500011123" name="108路(解放西路换乘枢纽站--金陵西路厦亭家园)" line="320500011123" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129957_802095853#2" duration="20"/>
+        <busStop id="BV10959414_419912484#3" duration="20"/>
+        <busStop id="BV10129956_419912509#3" duration="20"/>
+        <busStop id="BV10129955_-112973835#1" duration="20"/>
+        <busStop id="BV10130351_E2" duration="20"/>
+        <busStop id="BV10129957_802095853#2" duration="20"/>
+        <busStop id="BV10959414_419912484#3" duration="20"/>
+        <busStop id="BV10129956_419912509#3" duration="20"/>
+        <busStop id="BV10129955_-112973835#1" duration="20"/>
+        <busStop id="BV10130351_E2" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010099" name="923路(平海路首末站--宝带西路首末站)" line="320500010099" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129997_51229439#2" duration="20"/>
+        <busStop id="BV10129993_801547008#3" duration="20"/>
+        <busStop id="BV10129991_621156407#0" duration="20"/>
+        <busStop id="BV10129989_792592967#1" duration="20"/>
+        <busStop id="BV10129988_834876447#3" duration="20"/>
+    </ptLine>
+    <ptLine id="900000082554" name="54路高峰(吴中区职教中心--苏州旅游集散中心首末站)" line="900000082554" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129578_44669553#6" duration="20"/>
+        <busStop id="BV10129559_44678822#0" duration="20"/>
+        <busStop id="BV10129558_795866926#4.16" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10129588_gneE20" duration="20"/>
+        <busStop id="BV10129557_131443671#1" duration="20"/>
+        <busStop id="BV10129556_131443671#5" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010113" name="33路(苏州站北广场西公交枢纽--国际教育园北区首末站)" line="320500010113" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129588_gneE27" duration="20"/>
+        <busStop id="BV10129589_gneE41" duration="20"/>
+        <busStop id="BV10129596_gneE59" duration="20"/>
+        <busStop id="BV10129910_834617776#6" duration="20"/>
+        <busStop id="BV10131194_-442386648#4" duration="20"/>
+        <busStop id="BV10502792_-442386648#0" duration="20"/>
+        <busStop id="BV11067361_-66254174#2" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010114" name="33路(国际教育园北区首末站--苏州站北广场西公交枢纽)" line="320500010114" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV11067361_66254174#2" duration="20"/>
+        <busStop id="BV10502792_442386648#0" duration="20"/>
+        <busStop id="BV10131194_442386648#6" duration="20"/>
+        <busStop id="BV10129910_834633048#0.83" duration="20"/>
+        <busStop id="BV10129596_gneE49" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10129588_gneE20" duration="20"/>
+    </ptLine>
+    <ptLine id="320500011139" name="夜3路(苏州站北广场公交枢纽--木渎古镇严家花园)" line="320500011139" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129588_gneE27" duration="20"/>
+        <busStop id="BV10129589_gneE41" duration="20"/>
+        <busStop id="BV10129596_gneE55" duration="20"/>
+        <busStop id="BV10129910_834617776#6" duration="20"/>
+        <busStop id="BV10131194_-442386648#4" duration="20"/>
+        <busStop id="BV10502792_-442386648#1" duration="20"/>
+        <busStop id="BV11067361_-66254174#2" duration="20"/>
+    </ptLine>
+    <ptLine id="320500011140" name="夜3路(灵岩山首末站--苏州站北广场公交枢纽)" line="320500011140" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV11067361_66254174#2" duration="20"/>
+        <busStop id="BV10502792_442386648#0" duration="20"/>
+        <busStop id="BV10131194_442386648#6" duration="20"/>
+        <busStop id="BV10129910_834633048#0.83" duration="20"/>
+        <busStop id="BV10129596_gneE49" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10129588_gneE20" duration="20"/>
+    </ptLine>
+    <ptLine id="320500011141" name="夜1路(苏州站北广场公交枢纽--公交一路新村)" line="320500011141" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129588_gneE27" duration="20"/>
+        <busStop id="BV10129589_gneE41" duration="20"/>
+        <busStop id="BV10129596_gneE55" duration="20"/>
+        <busStop id="BV10129910_834617776#6" duration="20"/>
+        <busStop id="BV10129881_793877960#1" duration="20"/>
+        <busStop id="BV10129905_gneE90" duration="20"/>
+        <busStop id="BV10849375_834200992" duration="20"/>
+        <busStop id="BV10849175_gneE103" duration="20"/>
+        <busStop id="BV10130460_620937806#2" duration="20"/>
+        <busStop id="BV10130305_-gneE10" duration="20"/>
+    </ptLine>
+    <ptLine id="320500011142" name="夜1路(公交一路新村首末站--苏州站北广场公交枢纽)" line="320500011142" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10130305_gneE10" duration="20"/>
+        <busStop id="BV10130460_gneE104" duration="20"/>
+        <busStop id="BV10849175_gneE104.311" duration="20"/>
+        <busStop id="BV10849375_gneE98" duration="20"/>
+        <busStop id="BV10129905_gneE91" duration="20"/>
+        <busStop id="BV10129881_gneE69.64" duration="20"/>
+        <busStop id="BV10129910_834633048#0.83" duration="20"/>
+        <busStop id="BV10129596_gneE49" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10129588_795509472#5" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010116" name="游4路(灵岩山首末站2--苏州站北广场公交枢纽)" line="320500010116" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10130305_gneE10" duration="20"/>
+        <busStop id="BV10130460_gneE104" duration="20"/>
+        <busStop id="BV10849175_gneE104.311" duration="20"/>
+        <busStop id="BV10849375_gneE98" duration="20"/>
+        <busStop id="BV10129905_gneE91" duration="20"/>
+        <busStop id="BV10129881_gneE69.64" duration="20"/>
+        <busStop id="BV10129910_834633048#0.83" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10129588_gneE20" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010115" name="游4路(苏州站北广场公交枢纽--木渎古镇严家花园)" line="320500010115" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129588_gneE27" duration="20"/>
+        <busStop id="BV10129589_gneE41" duration="20"/>
+        <busStop id="BV10129910_834617776#6" duration="20"/>
+        <busStop id="BV10129881_793877960#1" duration="20"/>
+        <busStop id="BV10129905_gneE90" duration="20"/>
+        <busStop id="BV10849375_834200992" duration="20"/>
+        <busStop id="BV10130460_620937806#2" duration="20"/>
+        <busStop id="BV10130305_-gneE10" duration="20"/>
+    </ptLine>
+    <ptLine id="900000085131" name="9005路社区巴士(北线)(轮船码头首末站--轮船码头首末站)" line="900000085131" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV11319205_-525823901#1" duration="20"/>
+        <busStop id="BV10130305_gneE10" duration="20"/>
+        <busStop id="BV11319205_525823901#1" duration="20"/>
+    </ptLine>
+    <ptLine id="900000061071" name="9003路社区巴士(葑门首末站--葑门首末站)" line="900000061071" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129955_112973835#1" duration="20"/>
+        <busStop id="BV10129956_117947970#1" duration="20"/>
+        <busStop id="BV10130824_621655568#1.26" duration="20"/>
+        <busStop id="BV10130823_621655566#1" duration="20"/>
+        <busStop id="BV11472097_69707955#3" duration="20"/>
+        <busStop id="900000061071_BV10752971" duration="20"/>
+        <busStop id="900000061071_BV10746860" duration="20"/>
+        <busStop id="900000061071_BV10752968" duration="20"/>
+        <busStop id="900000061071_BV10746861" duration="20"/>
+        <busStop id="900000061071_BV10131357" duration="20"/>
+        <busStop id="BV10130460_gneE104" duration="20"/>
+        <busStop id="BV10849175_gneE104.311" duration="20"/>
+        <busStop id="BV10849375_gneE98" duration="20"/>
+        <busStop id="BV10129905_gneE91" duration="20"/>
+        <busStop id="BV10129991_793885077#0" duration="20"/>
+        <busStop id="BV10129993_621156408" duration="20"/>
+        <busStop id="BV10131202_621156411#0" duration="20"/>
+        <busStop id="BV10964849_621562723#2" duration="20"/>
+        <busStop id="BV10130823_117947974#0" duration="20"/>
+        <busStop id="BV10130824_24450141#1" duration="20"/>
+        <busStop id="BV10959414_419912484#3" duration="20"/>
+        <busStop id="BV10129956_419912509#3" duration="20"/>
+        <busStop id="BV10129955_-112973835#1" duration="20"/>
+        <busStop id="BV10130351_E2" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010131" name="932路(正大会员店--粮食批发市场)" line="320500010131" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129906_69707953" duration="20"/>
+        <busStop id="BV10130301_792592958#2" duration="20"/>
+        <busStop id="BV10129882_792592958#6" duration="20"/>
+        <busStop id="BV10849375_834200992" duration="20"/>
+        <busStop id="BV10130460_620937806#2" duration="20"/>
+        <busStop id="BV10130305_-gneE10" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010132" name="932路(粮食批发市场--正大会员店)" line="320500010132" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10130305_gneE10" duration="20"/>
+        <busStop id="BV11067676_525823904#2" duration="20"/>
+        <busStop id="BV11067682_-538444308#1" duration="20"/>
+        <busStop id="BV10130301_44669535#7" duration="20"/>
+        <busStop id="BV10129906_801546998#0" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010134" name="307路(正大会员店--星港街东首末站)" line="320500010134" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129988_526710359#1" duration="20"/>
+        <busStop id="BV10129989_526710359#3" duration="20"/>
+        <busStop id="BV10129991_793885077#0" duration="20"/>
+        <busStop id="BV10131202_621156411#0" duration="20"/>
+        <busStop id="BV10129997_116730242#3" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010135" name="307路(星港街东首末站--正大会员店)" line="320500010135" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129997_51229439#2" duration="20"/>
+        <busStop id="BV10129993_801547008#3" duration="20"/>
+        <busStop id="BV10129991_621156407#0" duration="20"/>
+        <busStop id="BV10129989_792592967#1" duration="20"/>
+        <busStop id="BV10129988_834876447#3" duration="20"/>
+    </ptLine>
+    <ptLine id="320500011163" name="夜2路(苏州站北广场公交枢纽--独墅湖高教区首末站)" line="320500011163" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129588_gneE27" duration="20"/>
+        <busStop id="BV10129589_gneE41" duration="20"/>
+        <busStop id="BV10129596_gneE55" duration="20"/>
+        <busStop id="BV10129910_834617776#6" duration="20"/>
+        <busStop id="BV10129881_793877960#1" duration="20"/>
+        <busStop id="BV10129991_793885077#0" duration="20"/>
+        <busStop id="BV10129993_621156408" duration="20"/>
+        <busStop id="BV10129997_116730242#3" duration="20"/>
+    </ptLine>
+    <ptLine id="320500011164" name="夜2路(独墅湖高教区首末站--苏州站北广场公交枢纽)" line="320500011164" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129997_51229439#2" duration="20"/>
+        <busStop id="BV10129993_801547008#3" duration="20"/>
+        <busStop id="BV10129991_621156407#0" duration="20"/>
+        <busStop id="BV10129881_gneE69.64" duration="20"/>
+        <busStop id="BV10129910_834633048#0.83" duration="20"/>
+        <busStop id="BV10129596_gneE49" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10129588_gneE20" duration="20"/>
+    </ptLine>
+    <ptLine id="900000045732" name="好行1号线北线(拙政园换乘中心--拙政园换乘中心)" line="900000045732" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10129588_gneE20" duration="20"/>
+        <busStop id="900000045732_BV10610594" duration="20"/>
+        <busStop id="900000045732_BV11611295" duration="20"/>
+        <busStop id="900000045732_BV11654148" duration="20"/>
+        <busStop id="900000045732_BV11654239" duration="20"/>
+    </ptLine>
+    <ptLine id="900000045733" name="好行1号线南线(拙政园换乘中心--拙政园换乘中心)" line="900000045733" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="900000045733_BV11654148" duration="20"/>
+        <busStop id="900000045733_BV11611295" duration="20"/>
+        <busStop id="900000045733_BV10610594" duration="20"/>
+        <busStop id="900000045733_BV10590467" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010151" name="60路(南线)(附二医院--体育中心首末站)" line="320500010151" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129957_802095853#2" duration="20"/>
+        <busStop id="BV10959414_419912484#3" duration="20"/>
+        <busStop id="BV10129956_419912509#3" duration="20"/>
+        <busStop id="BV10129955_-112973835#1" duration="20"/>
+        <busStop id="BV10130351_E2" duration="20"/>
+        <busStop id="BV10129997_51229439#2" duration="20"/>
+        <busStop id="BV10129993_801547008#3" duration="20"/>
+        <busStop id="BV10129991_621156407#0" duration="20"/>
+        <busStop id="BV10129989_792592967#1" duration="20"/>
+        <busStop id="BV10129988_834876447#3" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010152" name="178路(苏州站北广场公交枢纽--独墅湖高教区首末站)" line="320500010152" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129588_gneE27" duration="20"/>
+        <busStop id="BV10129589_gneE41" duration="20"/>
+        <busStop id="BV10129596_gneE59" duration="20"/>
+        <busStop id="BV10129910_834617776#6" duration="20"/>
+        <busStop id="BV10129881_793877960#1" duration="20"/>
+        <busStop id="BV10129991_793885077#0" duration="20"/>
+        <busStop id="BV10131202_621156411#0" duration="20"/>
+        <busStop id="BV10129997_116730242#3" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010153" name="178路(独墅湖高教区首末站--苏州站北广场公交枢纽)" line="320500010153" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129997_51229439#2" duration="20"/>
+        <busStop id="BV10129993_801547008#3" duration="20"/>
+        <busStop id="BV10129991_621156407#0" duration="20"/>
+        <busStop id="BV10129881_gneE69.64" duration="20"/>
+        <busStop id="BV10129910_834633048#0.83" duration="20"/>
+        <busStop id="BV10129596_gneE49" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10129588_gneE20" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010156" name="970路(东线)(解放西路换乘枢纽站--解放西路换乘枢纽站)" line="320500010156" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="320500010156_BV10130357" duration="20"/>
+        <busStop id="BV10129955_-112973835#1" duration="20"/>
+        <busStop id="BV10129954_-372693176#2" duration="20"/>
+        <busStop id="BV10129953_-372693176#1" duration="20"/>
+        <busStop id="BV10129952_477237804#0" duration="20"/>
+        <busStop id="BV10129951_-372693166#2" duration="20"/>
+        <busStop id="BV10129950_294908211#1" duration="20"/>
+        <busStop id="BV10129949_294908211#2" duration="20"/>
+        <busStop id="BV10876681_793466805#0" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010162" name="42路(狮山国际会议中心公交换乘枢纽--葑谊工业园)" line="320500010162" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129957_802095853#2" duration="20"/>
+        <busStop id="BV10959414_419912484#3" duration="20"/>
+        <busStop id="BV10129956_419912509#3" duration="20"/>
+        <busStop id="BV10130357_131443668#1.229" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010167" name="88路(福运公寓--喜庆花园)" line="320500010167" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV11067361_66254174#2" duration="20"/>
+        <busStop id="BV10502792_442386648#0" duration="20"/>
+        <busStop id="BV10130173_-112973829#4" duration="20"/>
+        <busStop id="BV10130174_-449258902#1" duration="20"/>
+        <busStop id="BV10130175_-44669544#1" duration="20"/>
+        <busStop id="BV10130441_44678824#0.376" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010168" name="88路(喜庆花园--福运公寓)" line="320500010168" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV11331387_-44678824#0" duration="20"/>
+        <busStop id="BV10130441_-44678824#0.263" duration="20"/>
+        <busStop id="BV10130175_44669544#7" duration="20"/>
+        <busStop id="BV10130174_449258902#1" duration="20"/>
+        <busStop id="BV10130173_112973829#2" duration="20"/>
+        <busStop id="BV10502792_-442386648#0" duration="20"/>
+        <busStop id="BV11067361_-66254174#2" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010169" name="811路(京沪高铁苏州北站--京沪高铁苏州北站)" line="320500010169" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129588_gneE27" duration="20"/>
+        <busStop id="BV10129589_gneE41" duration="20"/>
+        <busStop id="BV10129596_gneE55" duration="20"/>
+        <busStop id="BV10129910_834617776#6" duration="20"/>
+        <busStop id="BV10131194_-442386648#4" duration="20"/>
+        <busStop id="BV10130173_-112973829#4" duration="20"/>
+        <busStop id="BV10129558_795866926#4.16" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10129588_gneE20" duration="20"/>
+    </ptLine>
+    <ptLine id="900000074424" name="9010路社区巴士(南环桥--南环桥)" line="900000074424" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129955_112973835#1" duration="20"/>
+        <busStop id="BV10129956_117947970#1" duration="20"/>
+        <busStop id="BV11653683_-44669518#0" duration="20"/>
+        <busStop id="BV10130644_-790946264#5" duration="20"/>
+        <busStop id="BV10130643_-790946264#2" duration="20"/>
+        <busStop id="BV10752966_-621164893#3" duration="20"/>
+        <busStop id="BV10130642_-621164893#1" duration="20"/>
+        <busStop id="BV10130641_-620937810#1" duration="20"/>
+        <busStop id="BV10849175_gneE103" duration="20"/>
+        <busStop id="BV10130460_620937806#2" duration="20"/>
+        <busStop id="BV10130305_-gneE10" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010173" name="204路(独墅岛--上塘街)" line="320500010173" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129997_51229439#2" duration="20"/>
+        <busStop id="BV10129993_801547008#3" duration="20"/>
+        <busStop id="BV10129991_621156407#0" duration="20"/>
+        <busStop id="BV10129989_792592967#1" duration="20"/>
+        <busStop id="BV11067675_-44669552#1" duration="20"/>
+        <busStop id="BV10502792_-442386648#1" duration="20"/>
+        <busStop id="BV11067361_-66254174#2" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010174" name="204路(上塘街--独墅岛)" line="320500010174" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV11067361_66254174#2" duration="20"/>
+        <busStop id="BV10502792_442386648#0" duration="20"/>
+        <busStop id="BV11067675_44669552#1" duration="20"/>
+        <busStop id="BV10129989_526710359#3" duration="20"/>
+        <busStop id="BV10129991_793885077#0" duration="20"/>
+        <busStop id="BV10131202_621156411#0" duration="20"/>
+        <busStop id="BV10129997_116730242#3" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010177" name="218路(南环桥--独墅湖高教区首末站)" line="320500010177" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129957_802095853#2" duration="20"/>
+        <busStop id="BV10129956_419912509#3" duration="20"/>
+        <busStop id="BV10130357_131443668#1.229" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010179" name="501路(上塘街--通达路保养场2)" line="320500010179" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129578_44669553#6" duration="20"/>
+        <busStop id="BV10129559_44678822#0" duration="20"/>
+        <busStop id="BV10129558_795866926#4.16" duration="20"/>
+        <busStop id="BV10129596_gneE59" duration="20"/>
+        <busStop id="BV10129910_834617776#6" duration="20"/>
+        <busStop id="BV10129881_793877960#1" duration="20"/>
+        <busStop id="BV10129991_793885077#0" duration="20"/>
+        <busStop id="BV10129993_621156408" duration="20"/>
+        <busStop id="BV10131202_621156411#0" duration="20"/>
+        <busStop id="BV10964849_621562723#2" duration="20"/>
+        <busStop id="BV11472097_69707955#3" duration="20"/>
+        <busStop id="BV10849375_834200992" duration="20"/>
+        <busStop id="BV10130460_620937806#2" duration="20"/>
+        <busStop id="BV10130305_-gneE10" duration="20"/>
+        <busStop id="BV10129578_44669553#6" duration="20"/>
+        <busStop id="BV10129559_44678822#0" duration="20"/>
+        <busStop id="BV10129558_795866926#4.16" duration="20"/>
+        <busStop id="BV10129596_gneE59" duration="20"/>
+        <busStop id="BV10129910_834617776#6" duration="20"/>
+        <busStop id="BV10129881_793877960#1" duration="20"/>
+        <busStop id="BV10129991_793885077#0" duration="20"/>
+        <busStop id="BV10129993_621156408" duration="20"/>
+        <busStop id="BV10131202_621156411#0" duration="20"/>
+        <busStop id="BV10964849_621562723#2" duration="20"/>
+        <busStop id="BV11472097_69707955#3" duration="20"/>
+        <busStop id="BV10849375_834200992" duration="20"/>
+        <busStop id="BV10130460_620937806#2" duration="20"/>
+        <busStop id="BV10130305_-gneE10" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010180" name="501路(通达路保养场--上塘街)" line="320500010180" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10130305_gneE10" duration="20"/>
+        <busStop id="BV10130460_gneE104" duration="20"/>
+        <busStop id="BV10849175_gneE104.311" duration="20"/>
+        <busStop id="BV10849375_gneE98" duration="20"/>
+        <busStop id="BV11472097_69707916#0" duration="20"/>
+        <busStop id="BV10964849_795311121.64" duration="20"/>
+        <busStop id="BV10131202_621655562#2" duration="20"/>
+        <busStop id="BV10129993_801547008#3" duration="20"/>
+        <busStop id="BV10129991_621156407#0" duration="20"/>
+        <busStop id="BV10129881_815152498#2" duration="20"/>
+        <busStop id="BV10129910_834633048#0.83" duration="20"/>
+        <busStop id="BV10129578_-44669553#6" duration="20"/>
+        <busStop id="BV10130305_gneE10" duration="20"/>
+        <busStop id="BV10130460_gneE104" duration="20"/>
+        <busStop id="BV10849175_gneE104.311" duration="20"/>
+        <busStop id="BV10849375_gneE98" duration="20"/>
+        <busStop id="BV11472097_69707916#0" duration="20"/>
+        <busStop id="BV10964849_795311121.64" duration="20"/>
+        <busStop id="BV10131202_621655562#2" duration="20"/>
+        <busStop id="BV10129993_801547008#3" duration="20"/>
+        <busStop id="BV10129991_621156407#0" duration="20"/>
+        <busStop id="BV10129881_815152498#2" duration="20"/>
+        <busStop id="BV10129910_834633048#0.83" duration="20"/>
+        <busStop id="BV10129578_-44669553#6" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010698" name="980路(西线)(平海路首末站--平海路首末站东)" line="320500010698" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129988_526710359#1" duration="20"/>
+        <busStop id="BV10129989_526710359#3" duration="20"/>
+        <busStop id="BV10129991_793885077#0" duration="20"/>
+        <busStop id="BV10131202_621156411#0" duration="20"/>
+        <busStop id="BV10129997_116730242#3" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010187" name="146路(月亮湾首末站--养育巷)" line="320500010187" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129997_51229439#2" duration="20"/>
+        <busStop id="BV10129993_801547008#3" duration="20"/>
+        <busStop id="BV10129991_621156407#0" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010188" name="146路(养育巷--月亮湾首末站)" line="320500010188" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129989_526710359#3" duration="20"/>
+        <busStop id="BV10129991_793885077#0" duration="20"/>
+        <busStop id="BV10131202_621156411#0" duration="20"/>
+        <busStop id="BV10129997_116730242#3" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010699" name="40路(西线)(体育中心--体育中心首末站)" line="320500010699" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10131371_44669547#3" duration="20"/>
+        <busStop id="BV10131372_44669538#0" duration="20"/>
+        <busStop id="BV11418893_44669538#0" duration="20"/>
+        <busStop id="BV11418894_181596125#1" duration="20"/>
+        <busStop id="BV10131137_621671427" duration="20"/>
+        <busStop id="BV10129997_51229439#2" duration="20"/>
+        <busStop id="BV10129993_801547008#3" duration="20"/>
+        <busStop id="BV10129991_621156407#0" duration="20"/>
+        <busStop id="BV11067681_834142382#2" duration="20"/>
+        <busStop id="BV10130301_44669535#7" duration="20"/>
+        <busStop id="BV10129906_801546998#0" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010197" name="309路(解放西路换乘枢纽站--解放西路换乘枢纽站)" line="320500010197" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10130305_gneE10" duration="20"/>
+        <busStop id="BV10130460_gneE104" duration="20"/>
+        <busStop id="BV10849175_gneE104.311" duration="20"/>
+        <busStop id="BV10849375_gneE98" duration="20"/>
+        <busStop id="BV10131029_621156387" duration="20"/>
+        <busStop id="BV11472097_69707916#0" duration="20"/>
+        <busStop id="BV10131336_795311148#3" duration="20"/>
+        <busStop id="BV10752966_-621164893#3" duration="20"/>
+        <busStop id="BV10130642_-621164893#1" duration="20"/>
+        <busStop id="BV10130641_-620937810#1" duration="20"/>
+        <busStop id="BV10849175_gneE103" duration="20"/>
+        <busStop id="BV10130460_620937806#2" duration="20"/>
+        <busStop id="BV10130305_-gneE10" duration="20"/>
+    </ptLine>
+    <ptLine id="900000128218" name="9006路区间(苏州大学本部--苏州大学本部)" line="900000128218" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="900000128218_BV10418698" duration="20"/>
+        <busStop id="900000128218_BV10964916" duration="20"/>
+        <busStop id="BV10131336_795311148#3" duration="20"/>
+        <busStop id="BV10130642_-621164893#1" duration="20"/>
+        <busStop id="BV10130641_-620937810#1" duration="20"/>
+        <busStop id="BV10849375_gneE98" duration="20"/>
+        <busStop id="BV10131029_621156387" duration="20"/>
+        <busStop id="BV11472097_69707916#0" duration="20"/>
+        <busStop id="900000128218_BV10964916" duration="20"/>
+        <busStop id="900000128218_BV10418698" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010207" name="202路(苏州站北广场公交枢纽--独墅岛)" line="320500010207" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129588_gneE27" duration="20"/>
+        <busStop id="BV10129589_gneE41" duration="20"/>
+        <busStop id="BV10129596_gneE59" duration="20"/>
+        <busStop id="BV10129910_834617776#6" duration="20"/>
+        <busStop id="BV10129881_793877960#1" duration="20"/>
+        <busStop id="BV10129991_793885077#0" duration="20"/>
+        <busStop id="BV10131202_621156411#0" duration="20"/>
+        <busStop id="BV10129997_116730242#3" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010208" name="202路(独墅岛--苏州站北广场公交枢纽)" line="320500010208" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129997_51229439#2" duration="20"/>
+        <busStop id="BV10129993_801547008#3" duration="20"/>
+        <busStop id="BV10129991_621156407#0" duration="20"/>
+        <busStop id="BV10129881_gneE69.64" duration="20"/>
+        <busStop id="BV10129910_834633048#0.83" duration="20"/>
+        <busStop id="BV10129596_gneE49" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10129588_gneE20" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010227" name="5路(复兴桥--嘉元花园)" line="320500010227" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10130305_gneE10" duration="20"/>
+        <busStop id="BV10130460_gneE104" duration="20"/>
+        <busStop id="BV10849175_gneE104.311" duration="20"/>
+        <busStop id="BV10849375_gneE98" duration="20"/>
+        <busStop id="BV10129905_gneE91" duration="20"/>
+        <busStop id="BV10129881_gneE69.64" duration="20"/>
+        <busStop id="BV10129910_834633048#0.83" duration="20"/>
+        <busStop id="BV10129596_gneE49" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10129588_gneE20" duration="20"/>
+    </ptLine>
+    <ptLine id="900000170740" name="47路支线C(振华中学--轮船码头首末站)" line="900000170740" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10130643_-790946264#2" duration="20"/>
+        <busStop id="BV10849175_gneE103" duration="20"/>
+        <busStop id="BV11319205_525823901#1" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010229" name="305路(官渎桥西--国际教育园北区首末站)" line="320500010229" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="320500010229_BV10131147" duration="20"/>
+        <busStop id="BV10130723_527033376#0" duration="20"/>
+        <busStop id="BV10131137_621671428#0" duration="20"/>
+        <busStop id="BV11275862_-44669546#2" duration="20"/>
+        <busStop id="BV10131139_36999942#0" duration="20"/>
+        <busStop id="BV11470419_36999942#2" duration="20"/>
+        <busStop id="BV11275863_372693170#2" duration="20"/>
+        <busStop id="BV10129596_gneE55" duration="20"/>
+        <busStop id="BV10129910_834617776#6" duration="20"/>
+        <busStop id="BV10131194_-442386648#4" duration="20"/>
+        <busStop id="BV11067675_44669552#1" duration="20"/>
+        <busStop id="BV11067681_834142382#2" duration="20"/>
+        <busStop id="BV11067682_538444308#1" duration="20"/>
+        <busStop id="BV11067676_-525823904#3" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010230" name="305路(国际教育园北区首末站--官渎桥东)" line="320500010230" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10130639_44660557#1.72" duration="20"/>
+        <busStop id="BV11067676_525823904#2" duration="20"/>
+        <busStop id="BV11067682_-538444308#1" duration="20"/>
+        <busStop id="BV11067681_-834142382#4" duration="20"/>
+        <busStop id="BV11067675_-44669552#1" duration="20"/>
+        <busStop id="BV10131194_442386648#6" duration="20"/>
+        <busStop id="BV10129910_834633048#0.83" duration="20"/>
+        <busStop id="BV10129596_gneE49" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10129588_gneE20" duration="20"/>
+        <busStop id="BV10129557_131443671#1" duration="20"/>
+        <busStop id="BV10129556_131443671#5" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010743" name="511路(葑门首末站--木渎古镇严家花园)" line="320500010743" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129997_51229439#2" duration="20"/>
+        <busStop id="BV10129993_801547008#3" duration="20"/>
+        <busStop id="BV10129991_621156407#0" duration="20"/>
+        <busStop id="BV11067681_834142382#2" duration="20"/>
+        <busStop id="BV10130301_44669535#7" duration="20"/>
+        <busStop id="BV10129906_801546998#0" duration="20"/>
+    </ptLine>
+    <ptLine id="900000170741" name="47路支线B(轮船码头首末站--轮船码头首末站)" line="900000170741" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV11319205_-525823901#1" duration="20"/>
+        <busStop id="BV11653683_-44669518#0" duration="20"/>
+        <busStop id="BV10130644_-790946264#5" duration="20"/>
+        <busStop id="BV10130643_-790946264#2" duration="20"/>
+        <busStop id="BV10130642_-621164893#1" duration="20"/>
+        <busStop id="BV10849175_gneE103" duration="20"/>
+        <busStop id="BV10130305_-gneE10" duration="20"/>
+        <busStop id="BV11319205_525823901#1" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010228" name="5路(嘉元花园--复兴桥)" line="320500010228" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129588_gneE27" duration="20"/>
+        <busStop id="BV10129589_gneE41" duration="20"/>
+        <busStop id="BV10129596_gneE55" duration="20"/>
+        <busStop id="BV10129910_834617776#6" duration="20"/>
+        <busStop id="BV10129881_793877960#1" duration="20"/>
+        <busStop id="BV10129905_gneE90" duration="20"/>
+        <busStop id="BV10849375_834200992" duration="20"/>
+        <busStop id="BV10130460_620937806#2" duration="20"/>
+        <busStop id="BV10130305_-gneE10" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010751" name="511路(灵岩山首末站--葑门首末站)" line="320500010751" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129906_69707953" duration="20"/>
+        <busStop id="BV10130301_792592958#2" duration="20"/>
+        <busStop id="BV10129882_792592958#6" duration="20"/>
+        <busStop id="BV11472097_69707916#0" duration="20"/>
+        <busStop id="BV10964849_795311121.64" duration="20"/>
+        <busStop id="BV10131202_621655562#2" duration="20"/>
+        <busStop id="BV10129997_116730242#3" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010243" name="529路(浒关首末站--东方大道(古玩城)首末站)" line="320500010243" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="320500010243_BV11331387" duration="20"/>
+        <busStop id="BV10130441_-44678824#0.263" duration="20"/>
+        <busStop id="BV10130175_44669544#7" duration="20"/>
+        <busStop id="BV10130174_449258902#1" duration="20"/>
+        <busStop id="BV10130173_112973829#2" duration="20"/>
+        <busStop id="BV11067675_44669552#1" duration="20"/>
+        <busStop id="BV10129989_526710359#3" duration="20"/>
+        <busStop id="BV10129991_793885077#0" duration="20"/>
+        <busStop id="BV10131202_621156411#0" duration="20"/>
+        <busStop id="BV10964849_621562723#2" duration="20"/>
+        <busStop id="BV10131336_795311148#3" duration="20"/>
+        <busStop id="BV10752966_-621164893#3" duration="20"/>
+        <busStop id="BV10130642_-621164893#1" duration="20"/>
+        <busStop id="BV10130641_-620937810#1" duration="20"/>
+        <busStop id="BV10130460_620937806#2" duration="20"/>
+        <busStop id="BV10130305_-gneE10" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010244" name="529路(东方大道(古玩城)首末站--浒关首末站)" line="320500010244" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10130305_gneE10" duration="20"/>
+        <busStop id="320500010244_BV10131357" duration="20"/>
+        <busStop id="320500010244_BV10130769" duration="20"/>
+        <busStop id="BV10130824_621655568#1.26" duration="20"/>
+        <busStop id="BV10130823_621655566#1" duration="20"/>
+        <busStop id="320500010244_BV10131336" duration="20"/>
+        <busStop id="BV10964849_795311121.64" duration="20"/>
+        <busStop id="BV11371631_621655562#0" duration="20"/>
+        <busStop id="BV10129993_801547008#3" duration="20"/>
+        <busStop id="BV10129991_621156407#0" duration="20"/>
+        <busStop id="BV10129989_792592967#1" duration="20"/>
+        <busStop id="BV11067675_-44669552#1" duration="20"/>
+        <busStop id="BV10130173_-112973829#4" duration="20"/>
+        <busStop id="BV10130174_-449258902#1" duration="20"/>
+        <busStop id="BV10130175_-44669544#1" duration="20"/>
+        <busStop id="BV10130441_44678824#0.376" duration="20"/>
+    </ptLine>
+    <ptLine id="900000072966" name="9009路社区巴士(苏安首末站--苏安首末站)" line="900000072966" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10131137_621671428#0" duration="20"/>
+        <busStop id="900000072966_BV10899569" duration="20"/>
+        <busStop id="BV10131372_44669538#0" duration="20"/>
+        <busStop id="BV11418893_44669538#0" duration="20"/>
+        <busStop id="BV11418894_181596125#1" duration="20"/>
+        <busStop id="BV10131137_621671427" duration="20"/>
+        <busStop id="BV11275862_-44669546#2" duration="20"/>
+        <busStop id="BV10131139_36999942#0" duration="20"/>
+        <busStop id="BV11470419_36999942#2" duration="20"/>
+        <busStop id="BV11275863_372693170#2" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10131369_36999945#3" duration="20"/>
+        <busStop id="900000072966_BV11275863" duration="20"/>
+        <busStop id="900000072966_BV11470419" duration="20"/>
+        <busStop id="900000072966_BV10131139" duration="20"/>
+        <busStop id="900000072966_BV11275862" duration="20"/>
+        <busStop id="900000072966_BV10130723" duration="20"/>
+        <busStop id="BV10876681_793466805#0" duration="20"/>
+    </ptLine>
+    <ptLine id="900000158983" name="9018路社区巴士(葑门首末站--葑门首末站)" line="900000158983" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129955_112973835#1" duration="20"/>
+        <busStop id="BV10129956_117947970#1" duration="20"/>
+        <busStop id="BV10129957_802095854#1.219" duration="20"/>
+        <busStop id="BV10129957_802095853#2" duration="20"/>
+        <busStop id="BV10959414_419912484#3" duration="20"/>
+        <busStop id="BV10129956_419912509#3" duration="20"/>
+        <busStop id="BV10129955_-112973835#1" duration="20"/>
+        <busStop id="BV10130351_E2" duration="20"/>
+        <busStop id="BV10129955_112973835#1" duration="20"/>
+        <busStop id="BV10129956_117947970#1" duration="20"/>
+        <busStop id="BV10129957_802095854#1.219" duration="20"/>
+        <busStop id="BV10129957_802095853#2" duration="20"/>
+        <busStop id="BV10959414_419912484#3" duration="20"/>
+        <busStop id="BV10129956_419912509#3" duration="20"/>
+        <busStop id="BV10129955_-112973835#1" duration="20"/>
+        <busStop id="BV10130351_E2" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010249" name="1路(苏州站北广场公交枢纽--公交一路新村)" line="320500010249" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129588_gneE27" duration="20"/>
+        <busStop id="BV10129589_gneE41" duration="20"/>
+        <busStop id="BV10129596_gneE59" duration="20"/>
+        <busStop id="BV10129910_834617776#6" duration="20"/>
+        <busStop id="BV10129881_793877960#1" duration="20"/>
+        <busStop id="BV10129905_gneE90" duration="20"/>
+        <busStop id="BV10849375_834200992" duration="20"/>
+        <busStop id="BV10849175_gneE103" duration="20"/>
+        <busStop id="BV10130460_620937806#2" duration="20"/>
+        <busStop id="BV10130305_-gneE10" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010250" name="1路(公交一路新村首末站--苏州站北广场公交枢纽)" line="320500010250" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10130305_gneE10" duration="20"/>
+        <busStop id="BV10130460_gneE104" duration="20"/>
+        <busStop id="BV10849175_gneE104.311" duration="20"/>
+        <busStop id="BV10849375_gneE98" duration="20"/>
+        <busStop id="BV10129905_gneE91" duration="20"/>
+        <busStop id="BV10129881_gneE69.64" duration="20"/>
+        <busStop id="BV10129910_834633048#0.83" duration="20"/>
+        <busStop id="BV10129596_gneE49" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10129588_gneE20" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010770" name="27路(南环桥--胜浦首末站东)" line="320500010770" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129957_802095853#2" duration="20"/>
+        <busStop id="BV10959414_419912484#3" duration="20"/>
+        <busStop id="BV10129956_419912509#3" duration="20"/>
+        <busStop id="BV10129955_-112973835#1" duration="20"/>
+        <busStop id="BV10130351_E2" duration="20"/>
+    </ptLine>
+    <ptLine id="900000100627" name="40路区间车(体育中心--大公园)" line="900000100627" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10132800_-44669527#2" duration="20"/>
+    </ptLine>
+    <ptLine id="900000100626" name="40路区间车(大公园--体育中心)" line="900000100626" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10132800_44669527#2" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010269" name="308路(公交一路新村首末站--马涧小区)" line="320500010269" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10130305_gneE10" duration="20"/>
+        <busStop id="BV10130460_gneE104" duration="20"/>
+        <busStop id="BV10849175_gneE104.311" duration="20"/>
+        <busStop id="BV10849375_gneE98" duration="20"/>
+        <busStop id="BV10129882_44669535#3" duration="20"/>
+        <busStop id="BV10130301_44669535#7" duration="20"/>
+        <busStop id="BV10129906_801546998#0" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010270" name="308路(马涧小区--公交一路新村首末站)" line="320500010270" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129906_69707953" duration="20"/>
+        <busStop id="BV10130301_792592958#2" duration="20"/>
+        <busStop id="BV10129882_792592958#6" duration="20"/>
+        <busStop id="BV10849375_834200992" duration="20"/>
+        <busStop id="BV10849175_gneE103" duration="20"/>
+        <busStop id="BV10130460_620937806#2" duration="20"/>
+        <busStop id="BV10130305_-gneE10" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010271" name="游1路(虎丘路--虎阜桥)" line="320500010271" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV11067361_66254174#2" duration="20"/>
+        <busStop id="BV10502792_442386648#0" duration="20"/>
+        <busStop id="BV10131194_442386648#6" duration="20"/>
+        <busStop id="BV10129910_834633048#0.83" duration="20"/>
+        <busStop id="BV10129596_gneE49" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10129588_gneE20" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010272" name="游1路北线(虎阜桥--虎丘路)" line="320500010272" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129588_gneE27" duration="20"/>
+        <busStop id="BV10129589_gneE41" duration="20"/>
+        <busStop id="BV10129596_gneE55" duration="20"/>
+        <busStop id="BV10129910_834617776#6" duration="20"/>
+        <busStop id="BV10131194_-442386648#4" duration="20"/>
+        <busStop id="BV10502792_-442386648#1" duration="20"/>
+        <busStop id="BV11067361_-66254174#2" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010283" name="933路(东方大道(古玩城)首末站--新庄立交换乘枢纽站)" line="320500010283" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10130305_gneE10" duration="20"/>
+        <busStop id="BV10130460_gneE104" duration="20"/>
+        <busStop id="BV10849175_gneE104.311" duration="20"/>
+        <busStop id="BV10849375_gneE98" duration="20"/>
+        <busStop id="320500010283_BV10129905" duration="20"/>
+        <busStop id="BV10129881_815152498#2" duration="20"/>
+        <busStop id="BV10131194_-442386648#4" duration="20"/>
+        <busStop id="BV10502792_-442386648#0" duration="20"/>
+        <busStop id="BV11067361_-66254174#2" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010284" name="933路(新庄立交换乘枢纽站--东方大道(古玩城)首末站)" line="320500010284" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV11067361_66254174#2" duration="20"/>
+        <busStop id="BV10502792_442386648#0" duration="20"/>
+        <busStop id="BV10131194_442386648#6" duration="20"/>
+        <busStop id="BV10129881_793877960#1" duration="20"/>
+        <busStop id="BV10129905_gneE90" duration="20"/>
+        <busStop id="BV10849375_834200992" duration="20"/>
+        <busStop id="BV10849175_gneE103" duration="20"/>
+        <busStop id="BV10130460_620937806#2" duration="20"/>
+        <busStop id="BV10130305_-gneE10" duration="20"/>
+    </ptLine>
+    <ptLine id="900000045871" name="204路(夜班)(葑谊工业园--上塘街)" line="900000045871" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129997_51229439#2" duration="20"/>
+        <busStop id="BV10129993_801547008#3" duration="20"/>
+        <busStop id="BV10129991_621156407#0" duration="20"/>
+        <busStop id="BV10129989_792592967#1" duration="20"/>
+        <busStop id="BV11067675_-44669552#1" duration="20"/>
+        <busStop id="BV10502792_-442386648#1" duration="20"/>
+        <busStop id="BV11067361_-66254174#2" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010287" name="39路(汽车南站公交换乘枢纽--金山路首末站)" line="320500010287" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10130305_gneE10" duration="20"/>
+        <busStop id="BV10130639_620937801#0.87" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010289" name="931路(新庄立交换乘枢纽站--杏秀桥首末站)" line="320500010289" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129906_69707953" duration="20"/>
+        <busStop id="BV10130301_792592958#2" duration="20"/>
+        <busStop id="BV10129882_792592958#6" duration="20"/>
+        <busStop id="320500010289_BV10849375" duration="20"/>
+        <busStop id="BV10130460_620937806#2" duration="20"/>
+        <busStop id="BV10130305_-gneE10" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010290" name="931路(杏秀桥首末站--新庄立交换乘枢纽站)" line="320500010290" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10130305_gneE10" duration="20"/>
+        <busStop id="BV10130460_gneE104" duration="20"/>
+        <busStop id="BV10849175_gneE104.311" duration="20"/>
+        <busStop id="BV10849375_gneE98" duration="20"/>
+        <busStop id="BV10129882_44669535#3" duration="20"/>
+        <busStop id="BV10130301_44669535#7" duration="20"/>
+        <busStop id="BV10129906_801546998#0" duration="20"/>
+    </ptLine>
+    <ptLine id="900000126767" name="9016路社区巴士(钱万里桥南--钱万里桥南)" line="900000126767" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10130327_795866928#3" duration="20"/>
+        <busStop id="BV10130326_131443655#2" duration="20"/>
+        <busStop id="BV10130325_131443655#6" duration="20"/>
+        <busStop id="BV10129910_834617776#6" duration="20"/>
+        <busStop id="BV10129881_793877960#1" duration="20"/>
+        <busStop id="BV10131029_621156387" duration="20"/>
+        <busStop id="BV11472097_69707916#0" duration="20"/>
+        <busStop id="BV10964849_795311121.64" duration="20"/>
+        <busStop id="BV11371631_621655562#0" duration="20"/>
+        <busStop id="BV10129993_801547008#3" duration="20"/>
+        <busStop id="BV10129991_621156407#0" duration="20"/>
+        <busStop id="BV10129881_gneE69.64" duration="20"/>
+        <busStop id="BV10129910_834633048#0.83" duration="20"/>
+        <busStop id="900000126767_BV11410193" duration="20"/>
+        <busStop id="900000126767_BV10130325" duration="20"/>
+        <busStop id="BV10130327_-795866928#1" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010295" name="313路(狮山国际会议中心公交换乘枢纽--官渎里立交桥)" line="320500010295" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV11067361_66254174#2" duration="20"/>
+        <busStop id="BV10502792_442386648#0" duration="20"/>
+        <busStop id="BV10131194_442386648#6" duration="20"/>
+        <busStop id="BV10129910_834633048#0.83" duration="20"/>
+        <busStop id="BV10129596_gneE49" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10129588_gneE20" duration="20"/>
+        <busStop id="BV10129557_131443671#1" duration="20"/>
+        <busStop id="BV10129556_131443671#5" duration="20"/>
+        <busStop id="BV10131371_44669547#3" duration="20"/>
+        <busStop id="BV10131372_44669538#0" duration="20"/>
+        <busStop id="BV11418893_44669538#0" duration="20"/>
+        <busStop id="BV11418894_181596125#1" duration="20"/>
+        <busStop id="BV10131137_621671427" duration="20"/>
+        <busStop id="320500010295_BV10130723" duration="20"/>
+        <busStop id="BV10876681_793466805#0" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010296" name="313路(官渎里立交桥--狮山国际会议中心南)" line="320500010296" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10131137_621671428#0" duration="20"/>
+        <busStop id="BV11275862_-44669546#2" duration="20"/>
+        <busStop id="BV10131139_36999942#0" duration="20"/>
+        <busStop id="BV11470419_36999942#2" duration="20"/>
+        <busStop id="BV11275863_372693170#2" duration="20"/>
+        <busStop id="BV10129596_gneE55" duration="20"/>
+        <busStop id="BV10129910_834617776#6" duration="20"/>
+        <busStop id="BV10131194_-442386648#4" duration="20"/>
+        <busStop id="BV10502792_-442386648#0" duration="20"/>
+        <busStop id="BV11067361_-66254174#2" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010300" name="8路(城北西路首末站--城北西路首末站)" line="320500010300" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129588_gneE27" duration="20"/>
+        <busStop id="BV10129589_gneE41" duration="20"/>
+        <busStop id="BV10129596_gneE59" duration="20"/>
+        <busStop id="BV10129910_834617776#6" duration="20"/>
+        <busStop id="BV10129881_793877960#1" duration="20"/>
+        <busStop id="BV10131029_621156387" duration="20"/>
+        <busStop id="BV11472097_69707916#0" duration="20"/>
+        <busStop id="BV10964849_795311121.64" duration="20"/>
+        <busStop id="BV11371631_621655562#0" duration="20"/>
+        <busStop id="BV10129993_801547008#3" duration="20"/>
+        <busStop id="BV10129991_621156407#0" duration="20"/>
+        <busStop id="BV10129881_gneE69.64" duration="20"/>
+        <busStop id="BV10129910_834633048#0.83" duration="20"/>
+        <busStop id="BV10129596_gneE49" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10129588_gneE20" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010301" name="602路(国际教育园北区首末站--官渎桥东)" line="320500010301" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10400025_-36784500#1" duration="20"/>
+        <busStop id="BV10400024_-36784700#1" duration="20"/>
+        <busStop id="BV11067681_-834142382#4" duration="20"/>
+        <busStop id="BV11067675_-44669552#1" duration="20"/>
+        <busStop id="BV10131194_442386648#6" duration="20"/>
+        <busStop id="BV10129910_834633048#0.83" duration="20"/>
+        <busStop id="BV10129596_gneE49" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10129588_gneE20" duration="20"/>
+        <busStop id="BV10129557_131443671#1" duration="20"/>
+        <busStop id="BV10129556_131443671#5" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010302" name="602路(官渎桥西--国际教育园北区首末站)" line="320500010302" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129556_-131443671#3" duration="20"/>
+        <busStop id="BV10129557_-131443671#0" duration="20"/>
+        <busStop id="BV10129588_gneE27" duration="20"/>
+        <busStop id="BV10129589_gneE41" duration="20"/>
+        <busStop id="BV10129596_gneE55" duration="20"/>
+        <busStop id="BV10129910_834617776#6" duration="20"/>
+        <busStop id="BV10131194_-442386648#4" duration="20"/>
+        <busStop id="BV11067675_44669552#1" duration="20"/>
+        <busStop id="BV11067681_834142382#2" duration="20"/>
+        <busStop id="BV10130301_44669535#7" duration="20"/>
+        <busStop id="BV10129906_801546998#0" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010305" name="2路(灵岩山首末站2--津梁街首末站)" line="320500010305" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129988_526710359#1" duration="20"/>
+        <busStop id="BV10129989_526710359#3" duration="20"/>
+        <busStop id="BV10129991_793885077#0" duration="20"/>
+        <busStop id="BV10131202_621156411#0" duration="20"/>
+        <busStop id="BV10129997_116730242#3" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010306" name="2路(津梁街首末站--木渎古镇严家花园)" line="320500010306" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129997_51229439#2" duration="20"/>
+        <busStop id="BV10129993_801547008#3" duration="20"/>
+        <busStop id="BV10129991_621156407#0" duration="20"/>
+        <busStop id="BV10129989_792592967#1" duration="20"/>
+        <busStop id="BV10129988_834876447#3" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010832" name="200路(南线)(葑门首末站--葑门首末站)" line="320500010832" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129906_69707953" duration="20"/>
+        <busStop id="BV10130301_792592958#2" duration="20"/>
+        <busStop id="BV10129882_792592958#6" duration="20"/>
+        <busStop id="BV11472097_69707916#0" duration="20"/>
+        <busStop id="BV10964849_795311121.64" duration="20"/>
+        <busStop id="BV10131202_621655562#2" duration="20"/>
+        <busStop id="BV10129997_116730242#3" duration="20"/>
+    </ptLine>
+    <ptLine id="900000141142" name="夜专1路(苏州站北广场公交枢纽--苏州站北广场公交枢纽)" line="900000141142" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="900000141142_BV10130327" duration="20"/>
+        <busStop id="BV10130326_131443655#2" duration="20"/>
+        <busStop id="BV10130325_131443655#6" duration="20"/>
+        <busStop id="BV10129596_gneE49" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10129588_gneE20" duration="20"/>
+    </ptLine>
+    <ptLine id="900000141144" name="夜专3路(轮船码头首末站--轮船码头首末站)" line="900000141144" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV11319205_-525823901#1" duration="20"/>
+        <busStop id="BV10130305_gneE10" duration="20"/>
+        <busStop id="BV10129906_69707953" duration="20"/>
+        <busStop id="BV10400024_36784700#1" duration="20"/>
+        <busStop id="BV10836017_801546997#0" duration="20"/>
+        <busStop id="BV10836016_66254469#2" duration="20"/>
+        <busStop id="BV10502792_442386648#0" duration="20"/>
+        <busStop id="BV10131194_442386648#6" duration="20"/>
+        <busStop id="BV10129881_793877960#1" duration="20"/>
+        <busStop id="BV10129989_792592967#1" duration="20"/>
+        <busStop id="BV11067681_834142382#2" duration="20"/>
+        <busStop id="BV11067682_538444308#1" duration="20"/>
+        <busStop id="BV11601373_24535157#2" duration="20"/>
+        <busStop id="BV10130460_620937806#2" duration="20"/>
+        <busStop id="BV10130305_-gneE10" duration="20"/>
+        <busStop id="BV11319204_525823902" duration="20"/>
+        <busStop id="BV11319205_525823901#1" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010849" name="200路(北线)(葑门首末站--葑门首末站)" line="320500010849" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129997_51229439#2" duration="20"/>
+        <busStop id="BV10129993_801547008#3" duration="20"/>
+        <busStop id="BV10129991_621156407#0" duration="20"/>
+        <busStop id="BV11067681_834142382#2" duration="20"/>
+        <busStop id="BV10130301_44669535#7" duration="20"/>
+        <busStop id="BV10129906_801546998#0" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010338" name="40路(东线)(体育中心--体育中心首末站)" line="320500010338" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129906_69707953" duration="20"/>
+        <busStop id="BV10130301_792592958#2" duration="20"/>
+        <busStop id="BV10129882_792592958#6" duration="20"/>
+        <busStop id="BV11472097_69707916#0" duration="20"/>
+        <busStop id="BV10964849_795311121.64" duration="20"/>
+        <busStop id="BV10131202_621655562#2" duration="20"/>
+        <busStop id="BV10129997_116730242#3" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010339" name="980路(东线)(平海路首末站东--汇翠花园)" line="320500010339" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129997_51229439#2" duration="20"/>
+        <busStop id="BV10129993_801547008#3" duration="20"/>
+        <busStop id="BV10129991_621156407#0" duration="20"/>
+        <busStop id="BV10129989_792592967#1" duration="20"/>
+        <busStop id="BV10129988_834876447#3" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010341" name="60路(北线)(狮山桥东--体育中心首末站)" line="320500010341" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129988_526710359#1" duration="20"/>
+        <busStop id="BV10129989_526710359#3" duration="20"/>
+        <busStop id="BV10129991_793885077#0" duration="20"/>
+        <busStop id="BV10129993_621156408" duration="20"/>
+        <busStop id="BV10129997_116730242#3" duration="20"/>
+        <busStop id="BV10129955_112973835#1" duration="20"/>
+        <busStop id="BV10130357_131443668#1.229" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010342" name="970路(西线)(解放西路换乘枢纽站--解放西路换乘枢纽站)" line="320500010342" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10130723_527033376#0" duration="20"/>
+        <busStop id="BV10129949_-294908211#2" duration="20"/>
+        <busStop id="BV10129950_-294908211#0" duration="20"/>
+        <busStop id="BV10129951_372693166#2" duration="20"/>
+        <busStop id="BV10129952_461555221" duration="20"/>
+        <busStop id="BV10129953_372693176#1" duration="20"/>
+        <busStop id="BV10129954_372693176#2" duration="20"/>
+        <busStop id="BV10129955_112973835#1" duration="20"/>
+        <busStop id="BV10130357_131443668#1.229" duration="20"/>
+    </ptLine>
+    <ptLine id="900000178037" name="31路(官渎里立交换乘枢纽站--袁家浜)" line="900000178037" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="900000178037_BV10129556" duration="20"/>
+        <busStop id="BV10129557_-131443671#0" duration="20"/>
+        <busStop id="BV11331387_-44678824#0" duration="20"/>
+        <busStop id="BV10130441_-44678824#0.263" duration="20"/>
+        <busStop id="BV10130175_44669544#7" duration="20"/>
+        <busStop id="BV10130174_449258902#1" duration="20"/>
+        <busStop id="BV10129578_-44669553#6" duration="20"/>
+    </ptLine>
+    <ptLine id="900000144774" name="好行夜2线(汽车北站换乘中心--汽车北站换乘中心)" line="900000144774" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="900000144774_BV11376732" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010887" name="游4路长线(苏州站北广场公交枢纽--天平山)" line="320500010887" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129588_gneE27" duration="20"/>
+        <busStop id="BV10129589_gneE41" duration="20"/>
+        <busStop id="BV10129910_834617776#6" duration="20"/>
+        <busStop id="BV10129881_793877960#1" duration="20"/>
+        <busStop id="BV10129905_gneE90" duration="20"/>
+        <busStop id="BV10849375_834200992" duration="20"/>
+        <busStop id="320500010887_BV10130460" duration="20"/>
+        <busStop id="BV10130305_-gneE10" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010889" name="游4路长线(天平山--苏州站北广场公交枢纽)" line="320500010889" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10130305_gneE10" duration="20"/>
+        <busStop id="BV10130460_gneE104" duration="20"/>
+        <busStop id="BV10849175_gneE104.311" duration="20"/>
+        <busStop id="BV10849375_gneE98" duration="20"/>
+        <busStop id="BV10129905_gneE91" duration="20"/>
+        <busStop id="BV10129881_gneE69.64" duration="20"/>
+        <busStop id="BV10129910_834633048#0.83" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10129588_795509472#5" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010898" name="89路(采莲路富元路南--狮山国际会议中心南)" line="320500010898" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129997_51229439#2" duration="20"/>
+        <busStop id="BV10129993_801547008#3" duration="20"/>
+        <busStop id="BV10129991_621156407#0" duration="20"/>
+        <busStop id="BV11067681_834142382#2" duration="20"/>
+        <busStop id="BV10130301_44669535#7" duration="20"/>
+        <busStop id="BV10129906_801546998#0" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010900" name="89路(狮山国际会议中心公交换乘枢纽--采莲路富元路南2)" line="320500010900" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129906_69707953" duration="20"/>
+        <busStop id="BV11067681_-834142382#4" duration="20"/>
+        <busStop id="BV10129989_526710359#3" duration="20"/>
+        <busStop id="BV10129991_793885077#0" duration="20"/>
+        <busStop id="BV10131202_621156411#0" duration="20"/>
+        <busStop id="BV10129997_116730242#3" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010911" name="900路(南线)(南环桥--华东装饰城)" line="320500010911" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129988_526710359#1" duration="20"/>
+        <busStop id="BV10129989_526710359#3" duration="20"/>
+        <busStop id="BV10129991_793885077#0" duration="20"/>
+        <busStop id="BV10131202_621156411#0" duration="20"/>
+        <busStop id="BV10129997_116730242#3" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010912" name="262路(沪宁城铁园区站--解放西路换乘枢纽站)" line="320500010912" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129556_-131443671#3" duration="20"/>
+        <busStop id="BV10129557_-131443671#0" duration="20"/>
+        <busStop id="BV10129588_gneE27" duration="20"/>
+        <busStop id="BV10129589_gneE41" duration="20"/>
+        <busStop id="BV10129596_gneE55" duration="20"/>
+        <busStop id="BV10129910_834617776#6" duration="20"/>
+        <busStop id="BV10131194_-442386648#4" duration="20"/>
+        <busStop id="BV10502792_-442386648#0" duration="20"/>
+        <busStop id="BV11067361_-66254174#2" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010938" name="101路(吴中汽车站南--城北西路首末站)" line="320500010938" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10130305_gneE10" duration="20"/>
+        <busStop id="BV10130460_gneE104" duration="20"/>
+        <busStop id="BV10849175_gneE104.311" duration="20"/>
+        <busStop id="BV10849375_gneE98" duration="20"/>
+        <busStop id="BV10129905_gneE91" duration="20"/>
+        <busStop id="BV10129881_gneE69.64" duration="20"/>
+        <busStop id="BV10129910_834633048#0.83" duration="20"/>
+        <busStop id="BV10129596_gneE49" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10129588_gneE20" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010939" name="101路(城北西路首末站--吴中汽车站南)" line="320500010939" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129588_gneE27" duration="20"/>
+        <busStop id="BV10129589_gneE41" duration="20"/>
+        <busStop id="BV10129596_gneE59" duration="20"/>
+        <busStop id="BV10129910_834617776#6" duration="20"/>
+        <busStop id="BV10129881_793877960#1" duration="20"/>
+        <busStop id="BV10129905_gneE90" duration="20"/>
+        <busStop id="BV10849375_834200992" duration="20"/>
+        <busStop id="BV10130460_620937806#2" duration="20"/>
+        <busStop id="BV10130305_-gneE10" duration="20"/>
+    </ptLine>
+    <ptLine id="900000071617" name="9007路社区巴士(轮船码头首末站--轮船码头首末站)" line="900000071617" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV11319205_-525823901#1" duration="20"/>
+        <busStop id="BV10130305_gneE10" duration="20"/>
+        <busStop id="BV10129906_69707953" duration="20"/>
+        <busStop id="BV10400024_36784700#1" duration="20"/>
+        <busStop id="BV10836017_801546997#0" duration="20"/>
+        <busStop id="BV10836016_66254469#2" duration="20"/>
+        <busStop id="BV10502792_442386648#0" duration="20"/>
+        <busStop id="BV10131194_442386648#6" duration="20"/>
+        <busStop id="BV10129881_793877960#1" duration="20"/>
+        <busStop id="BV10129989_792592967#1" duration="20"/>
+        <busStop id="BV11067681_834142382#2" duration="20"/>
+        <busStop id="BV11067682_538444308#1" duration="20"/>
+        <busStop id="BV11601373_24535157#2" duration="20"/>
+        <busStop id="BV10130460_620937806#2" duration="20"/>
+        <busStop id="BV10130305_-gneE10" duration="20"/>
+        <busStop id="BV11319204_525823902" duration="20"/>
+        <busStop id="BV11319205_525823901#1" duration="20"/>
+    </ptLine>
+    <ptLine id="900000071618" name="9008路社区巴士(苏州旅游集散中心首末站--欧尚超市)" line="900000071618" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="900000071618_BV10876681" duration="20"/>
+        <busStop id="BV10129949_-294908211#2" duration="20"/>
+        <busStop id="BV10129950_-294908211#0" duration="20"/>
+        <busStop id="BV10129951_372693166#2" duration="20"/>
+        <busStop id="BV10129952_461555221" duration="20"/>
+        <busStop id="BV10129953_372693176#1" duration="20"/>
+        <busStop id="BV10129954_372693176#2" duration="20"/>
+        <busStop id="BV10130351_E2" duration="20"/>
+    </ptLine>
+    <ptLine id="900000029638" name="301路(袁家浜--袁家浜)" line="900000029638" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV11067361_66254174#2" duration="20"/>
+        <busStop id="BV10502792_442386648#0" duration="20"/>
+        <busStop id="BV10131194_442386648#6" duration="20"/>
+        <busStop id="BV10129910_834633048#0.83" duration="20"/>
+        <busStop id="BV10129596_gneE49" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10129588_gneE20" duration="20"/>
+        <busStop id="BV10129557_131443671#1" duration="20"/>
+        <busStop id="BV10129556_131443671#5" duration="20"/>
+        <busStop id="BV10131137_621671428#0" duration="20"/>
+        <busStop id="BV11275862_-44669546#2" duration="20"/>
+        <busStop id="BV10131139_36999942#0" duration="20"/>
+        <busStop id="BV11470419_36999942#2" duration="20"/>
+        <busStop id="BV11275863_372693170#2" duration="20"/>
+        <busStop id="BV10129596_gneE59" duration="20"/>
+        <busStop id="BV10129910_834617776#6" duration="20"/>
+        <busStop id="BV10131194_-442386648#4" duration="20"/>
+        <busStop id="BV10502792_-442386648#0" duration="20"/>
+        <busStop id="BV11067361_-66254174#2" duration="20"/>
+    </ptLine>
+    <ptLine id="900000118727" name="305路早班区间车(桐泾公园--官渎桥东)" line="900000118727" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10130639_44660557#1.72" duration="20"/>
+        <busStop id="BV11067676_525823904#2" duration="20"/>
+        <busStop id="BV11067682_-538444308#1" duration="20"/>
+        <busStop id="BV11067681_-834142382#4" duration="20"/>
+        <busStop id="BV11067675_-44669552#1" duration="20"/>
+        <busStop id="BV10131194_442386648#6" duration="20"/>
+        <busStop id="BV10129910_834633048#0.83" duration="20"/>
+        <busStop id="BV10129596_gneE49" duration="20"/>
+        <busStop id="BV10129589_gneE44.250" duration="20"/>
+        <busStop id="BV10129588_gneE20" duration="20"/>
+        <busStop id="BV10129557_131443671#1" duration="20"/>
+        <busStop id="BV10129556_131443671#5" duration="20"/>
+    </ptLine>
+    <ptLine id="320500010954" name="31路(袁家浜--官渎里立交换乘枢纽站)" line="320500010954" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129578_44669553#6" duration="20"/>
+        <busStop id="BV10129559_44678822#0" duration="20"/>
+        <busStop id="BV10130174_-449258902#1" duration="20"/>
+        <busStop id="BV10130175_-44669544#1" duration="20"/>
+        <busStop id="BV10130441_44678824#0.376" duration="20"/>
+        <busStop id="BV10129557_131443671#1" duration="20"/>
+        <busStop id="BV10129556_131443671#5" duration="20"/>
+    </ptLine>
+    <ptLine id="900000055756" name="轨道交通5号线(太湖香山--阳澄湖南)" line="900000055756" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="900000055756_BV10735304" duration="20"/>
+        <busStop id="900000055756_BV10676639" duration="20"/>
+        <busStop id="900000055756_BV10676642" duration="20"/>
+    </ptLine>
+    <ptLine id="900000055757" name="轨道交通5号线(阳澄湖南--太湖香山)" line="900000055757" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="900000055757_BV10676642" duration="20"/>
+        <busStop id="900000055757_BV10676639" duration="20"/>
+    </ptLine>
+    <ptLine id="900000149460" name="262路大站车(珠泾路跨春路--解放西路换乘枢纽站)" line="900000149460" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10502792_-442386648#0" duration="20"/>
+    </ptLine>
+    <ptLine id="900000029145" name="9006路社区巴士(大公园--大公园)" line="900000029145" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10132800_-44669527#2" duration="20"/>
+        <busStop id="BV10129993_621156408" duration="20"/>
+        <busStop id="BV10131202_621156411#0" duration="20"/>
+        <busStop id="BV10964849_621562723#2" duration="20"/>
+        <busStop id="BV10130823_117947974#0" duration="20"/>
+        <busStop id="BV10130824_24450141#1" duration="20"/>
+        <busStop id="900000029145_BV10130769" duration="20"/>
+        <busStop id="900000029145_BV10746861" duration="20"/>
+        <busStop id="900000029145_BV10752968" duration="20"/>
+        <busStop id="900000029145_BV10746860" duration="20"/>
+        <busStop id="BV10132800_-44669527#2" duration="20"/>
+    </ptLine>
+    <ptLine id="900000140258" name="9003路高峰支线(十中定制公交专线)(乐桥--大公园)" line="900000140258" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129991_793885077#0" duration="20"/>
+        <busStop id="BV10129993_621156408" duration="20"/>
+        <busStop id="BV10131202_621156411#0" duration="20"/>
+        <busStop id="BV10964849_621562723#2" duration="20"/>
+        <busStop id="BV10131336_795311148#3" duration="20"/>
+        <busStop id="BV10849375_gneE98" duration="20"/>
+        <busStop id="BV10131029_621156387" duration="20"/>
+        <busStop id="BV11472097_69707916#0" duration="20"/>
+        <busStop id="BV10964849_795311121.64" duration="20"/>
+        <busStop id="BV11371631_621655562#0" duration="20"/>
+        <busStop id="BV10132800_44669527#2" duration="20"/>
+        <busStop id="BV10129991_793885077#0" duration="20"/>
+        <busStop id="BV10129993_621156408" duration="20"/>
+        <busStop id="BV10131202_621156411#0" duration="20"/>
+        <busStop id="BV10964849_621562723#2" duration="20"/>
+        <busStop id="BV10131336_795311148#3" duration="20"/>
+        <busStop id="BV10849375_gneE98" duration="20"/>
+        <busStop id="BV10131029_621156387" duration="20"/>
+        <busStop id="BV11472097_69707916#0" duration="20"/>
+        <busStop id="BV10964849_795311121.64" duration="20"/>
+        <busStop id="BV11371631_621655562#0" duration="20"/>
+        <busStop id="BV10132800_44669527#2" duration="20"/>
+    </ptLine>
+    <ptLine id="900000088567" name="9008路社区巴士(欧尚超市西--苏州旅游集散中心首末站)" line="900000088567" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129954_-372693176#2" duration="20"/>
+        <busStop id="BV10129953_-372693176#1" duration="20"/>
+        <busStop id="BV10129952_477237804#0" duration="20"/>
+        <busStop id="BV10129951_-372693166#2" duration="20"/>
+        <busStop id="BV10129950_294908211#1" duration="20"/>
+        <busStop id="BV10129949_294908211#2" duration="20"/>
+        <busStop id="BV10876681_793466805#0" duration="20"/>
+        <busStop id="900000088567_BV11210772" duration="20"/>
+    </ptLine>
+    <ptLine id="900000027128" name="900路(北线)(南环桥--南环桥)" line="900000027128" type="bus" vClass="bus" completeness="1.00">
+        <busStop id="BV10129957_802095853#2" duration="20"/>
+        <busStop id="BV10959414_419912484#3" duration="20"/>
+        <busStop id="BV10129956_419912509#3" duration="20"/>
+        <busStop id="BV10130357_131443668#1.229" duration="20"/>
+        <busStop id="BV10129997_51229439#2" duration="20"/>
+        <busStop id="BV10129993_801547008#3" duration="20"/>
+        <busStop id="BV10129991_621156407#0" duration="20"/>
+        <busStop id="BV10129989_792592967#1" duration="20"/>
+        <busStop id="BV10129988_834876447#3" duration="20"/>
+    </ptLine>
+</ptLines>
