@@ -24,3 +24,12 @@ the project are guaranteed.
 
 **where**， "output_xxx" files include the operating files(.xml files) necessary for the simulation software; "output" file include the result of simulation evaluation system and the converted ".csv" files from 
 ".xml" files
+
+
+## 📌 Citation
+
+If you use this code in your research, please cite it as:
+
+Zhang, Y. (2025). *Code for EV Charging Station Optimization (v1.0)* [Software]. Figshare. https://doi.org/10.6084/m9.figshare.12345678
+
+[![DOI](https://zenodo.org/badge/DOI/10.6084/m9.figshare.12345678.svg)](https://doi.org/10.6084/m9.figshare.12345678)
